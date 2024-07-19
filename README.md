@@ -3,7 +3,7 @@ A machine learning-based platform for forecasting crop yields. Leverages data-dr
 
 # AgriYield Pro 🌾🤖
 
-Welcome to Sadia's Crop-Forecast ML Pro! This project leverages advanced AI and machine learning algorithms to provide farmers with precise crop yield predictions. It's designed to assist farmers in making informed decisions, optimizing resource usage, and ultimately enhancing agricultural productivity.
+CropYieldPredictor is a machine learning project designed to predict agricultural crop yields using advanced predictive analytics. The goal is to provide accurate forecasts based on historical data, helping farmers and agricultural professionals make informed decisions and optimize their farming practices.
 
 ## Table of Contents
 
