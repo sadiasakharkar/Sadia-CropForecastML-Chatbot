@@ -26,13 +26,13 @@ Agriculture is a vital sector that requires accurate methods for predicting crop
 - **AI-Powered Insights**: Leverage AI to support agricultural productivity.
 - **No API Key Required**: Seamless access without needing an API key.
 
-## Installation
+## Installation 
 
 To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sadiasakharkar/CropForecastML.git
+   git clone https://github.com/sadiasakharkar/Sadia-CropForecastML-Chatbot.git
    cd AgriYield-Pro
 
 2. **Install dependencies:**
