@@ -46,7 +46,7 @@ Area_Encoder = {
     'Lithuania': 55, 'Madagascar': 56, 'Malawi': 57, 'Malaysia': 58, 'Mali': 59, 'Mauritania': 60, 'Mauritius': 61, 'Mexico': 62,
     'Mex': 63
 }
-loettir_2 = lottie("https://assets3.lottiefiles.com/packages/lf20_CZva9peGiW.json")
+loettir_2 = lottie("https://assets6.lottiefiles.com/packages/lf20_BgywoUBeiL.json")
 Item_Encoder = {
     'Maize': 0, 'Potatoes': 1, 'Rice, paddy': 2, 'Sorghum': 3, 'Soybeans': 4, 'Wheat': 5, 'Cassava': 6, 'Sweet potatoes': 7,
     'Plantains and others': 8, 'Yams': 9
