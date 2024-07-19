@@ -12,13 +12,13 @@ with st.sidebar:
     option = "About"
     st.markdown(f"<h3 style='text-align: center;'>{option}</h3>", unsafe_allow_html=True)
     st.markdown('''
-    Sadia Ansar Husain Sakharkar envisions Crop-Forecast ML Pro as a groundbreaking tool that leverages advanced AI and machine learning algorithms to provide farmers with precise crop yield predictions. This tool is designed to assist farmers in making informed decisions, optimizing resource usage, and ultimately enhancing agricultural productivity.
+    Sadia envisions Crop-Forecast ML Pro as a groundbreaking tool that leverages advanced AI and machine learning algorithms to provide farmers with precise crop yield predictions. This tool is designed to assist farmers in making informed decisions, optimizing resource usage, and ultimately enhancing agricultural productivity.
 
     By utilizing historical data and real-time inputs, AgriYield Pro can predict crop yields with remarkable accuracy, helping to mitigate risks associated with farming and improve food security. This innovation has the potential to transform the agricultural sector, making it more resilient and sustainable.
 
     💡 Let's harness the power of AI to boost agricultural productivity and support our farmers!
     ''')
-    st.write('Developed with passion by Sadia Ansar Husain Sakharkar')
+    st.write('Developed with passion by Sadia ')
 
 
 
