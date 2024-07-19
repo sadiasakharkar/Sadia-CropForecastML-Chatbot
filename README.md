@@ -1,6 +1,8 @@
 # Sadia's-CropForecastML-Chatbot
 A machine learning-based platform for forecasting crop yields. Leverages data-driven models to predict agricultural outcomes and support effective farming strategies.
 
+Web-app : https://sadia-cropforecastml-chatbot.streamlit.app
+
 # AgriYield Pro 🌾🤖
 
 CropYieldPredictor is a machine learning project designed to predict agricultural crop yields using advanced predictive analytics. The goal is to provide accurate forecasts based on historical data, helping farmers and agricultural professionals make informed decisions and optimize their farming practices.
