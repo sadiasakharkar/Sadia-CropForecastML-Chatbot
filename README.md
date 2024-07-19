@@ -1,4 +1,4 @@
-# Sadia-CropForecastML-Chatbot
+# Sadia's-CropForecastML-Chatbot
 A machine learning-based platform for forecasting crop yields. Leverages data-driven models to predict agricultural outcomes and support effective farming strategies.
 
 # AgriYield Pro 🌾🤖
@@ -32,24 +32,26 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sadiasakharkar/AgriYield-Pro.git
+   git clone https://github.com/sadiasakharkar/CropForecastML.git
    cd AgriYield-Pro
 
 2. **Install dependencies:**
     bash
-    pip install -r requirements.txt
+   
+       pip install -r requirements.txt
 
-3. Ensure model file:
+4. Ensure model file:
     Place the trained model file dtr (1).pkl in the project directory.
 
 
 ## Usage 
 
-    Start the application by running:
+   Start the application by running:
+   
     ```bash
-       streamlit run app.py
+       streamlit run web_app.py
 
-    Input Features
+   Input Features
     Year: Year for which crop yield prediction is required.
     Average Rainfall (mm per year): Annual average rainfall in millimeters.
     Pesticides (tonnes): Quantity of pesticides used in tonnes.
@@ -57,8 +59,8 @@ To run this project locally, follow these steps:
     Area: Select the geographic area from the provided options.
     Item: Choose the type of crop from the available options.
 
-    Example
-    After launching the Streamlit app, input the required features and click "Predict" to view the    predicted    crop yield.
+   Example
+   After launching the Streamlit app, input the required features and click "Predict" to view the    predicted    crop yield.
 
 
 
@@ -68,5 +70,11 @@ The prediction model used is a Decision Tree Regressor trained on historical cro
 ## Contributing
 Contributions are welcome! For suggestions or improvements, feel free to create an issue or submit a pull request adhering to the project's coding standards.
 
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Open a pull request with a clear description of your changes.
+
 ## Contact
-Email sakharkarsadia@gmail.com for questions, feedback, or collaborations.
+For any questions or feedback, please contact sakharkarsadia@gmail.com
