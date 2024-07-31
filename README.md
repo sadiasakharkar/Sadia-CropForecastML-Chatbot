@@ -78,5 +78,9 @@ Contributions are welcome! For suggestions or improvements, feel free to create 
 4. Push your branch to your fork.
 5. Open a pull request with a clear description of your changes.
 
+## Author
+
+This repository is maintained by Sadia Sakharkar.
+
 ## Contact
 For any questions or feedback, please contact sakharkarsadia@gmail.com
