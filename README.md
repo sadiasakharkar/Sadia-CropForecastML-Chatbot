@@ -1,4 +1,4 @@
-# Sadia's-CropForecastML-Chatbot
+# CropForecastML-Chatbot
 A machine learning-based platform for forecasting crop yields. Leverages data-driven models to predict agricultural outcomes and support effective farming strategies.
 
 Web-app : https://sadia-cropforecastml-chatbot.streamlit.app
