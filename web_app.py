@@ -85,3 +85,4 @@ if st.button("Predict"):
     
     # Display the result in a success box
     st.success(f"Predicted Yield: {result:.2f} hg/ha")
+
