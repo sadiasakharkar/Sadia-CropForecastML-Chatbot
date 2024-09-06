@@ -82,5 +82,6 @@ Item = st.selectbox("Item", list(Item_Encoder.keys()))
 
 if st.button("Predict"):
     result = prediction(Year, average_rain_fall_mm_per_year, pesticides_tonnes, avg_temp, Area, Item)
-    st.write(f"Predicted Yield: {result:.2f} hg/ha")
-
+    
+    # Display the result in a success box
+    st.success(f"Predicted Yield: {result:.2f} hg/ha")
